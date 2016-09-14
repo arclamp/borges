@@ -1,5 +1,5 @@
 {
-  "name": "webpack-dist",
+  "name": "webpack-borges",
   "version": "0.1.0",
   "description": "Experiment in distributing webpack loaders with a library",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronichoudhury/webpack-dist.git"
+    "url": "git+https://github.com/ronichoudhury/webpack-borges.git"
   },
   "author": "Roni Choudhury",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ronichoudhury/webpack-dist/issues"
+    "url": "https://github.com/ronichoudhury/webpack-borges/issues"
   },
-  "homepage": "https://github.com/ronichoudhury/webpack-dist#readme",
+  "homepage": "https://github.com/ronichoudhury/webpack-borges#readme",
   "devDependencies": {
     "webpack": "^1.13.2"
   },
