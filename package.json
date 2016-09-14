@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronichoudhury/webpack-borges.git"
+    "url": "git+https://github.com/ronichoudhury-work/webpack-borges.git"
   },
   "author": "Roni Choudhury",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ronichoudhury/webpack-borges/issues"
+    "url": "https://github.com/ronichoudhury-work/webpack-borges/issues"
   },
-  "homepage": "https://github.com/ronichoudhury/webpack-borges#readme",
+  "homepage": "https://github.com/ronichoudhury-work/webpack-borges#readme",
   "devDependencies": {
     "webpack": "^1.13.2"
   },
