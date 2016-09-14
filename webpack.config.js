@@ -2,7 +2,7 @@ var webpack = require('webpack');
 
 module.exports = {
   entry: {
-    'webpack-dist': './index.js'
+    borges: './index.js'
   },
   output: {
     library: '[name]',
