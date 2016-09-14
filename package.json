@@ -1,5 +1,5 @@
 {
-  "name": "webpack-borges",
+  "name": "borges",
   "version": "0.1.0",
   "description": "Experiment in distributing webpack loaders with a library",
   "main": "index.js",
