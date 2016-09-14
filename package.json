@@ -4,7 +4,8 @@
   "description": "Experiment in distributing webpack loaders with a library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/ronichoudhury/webpack-dist/issues"
   },
-  "homepage": "https://github.com/ronichoudhury/webpack-dist#readme"
+  "homepage": "https://github.com/ronichoudhury/webpack-dist#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0"
+  }
 }
