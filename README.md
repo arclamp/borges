@@ -87,3 +87,16 @@ install, and test it.
 
 If you have questions, suggestions, or bug fixes, please open an issue or pull
 request!
+
+# Why "Borges"?
+
+Jorge Luis Borges wrote about [The Library of
+Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel), an unimaginably
+large complex of hexagonal rooms consisting of every possible 410-page book
+using a particular set of characters.
+
+You might have some trouble using Webpack to bundle up this whole library for
+use in a client project.
+
+(There is a [digital version](https://libraryofbabel.info/) of the Library that
+you can explore.)
