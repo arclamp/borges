@@ -78,6 +78,16 @@ intended.
    But whatever a (or the) general solution is to this problem will also solve it
    for purposes of this question.
 
+3. *What if the client project doesn't use Webpack at all?*
+
+   The library project can include a Webpack configuration of its own that
+   builds a bundled library (i.e., following the same steps a single-page
+   application project would, outputting a single bundle file containing all the
+   library code) which can then be distributed along with the source files. Since
+   Webpack conveniently gives the option of producing a UMD module, any client
+   project that doesn't take advantage of Webpack and the library's loader
+   distribution file can simply use the UMD module instead.
+
 # Try It Out!
 
 This experiment has a sister repository,
